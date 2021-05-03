@@ -24,4 +24,9 @@ class UserController extends Controller
             return redirect('/');
         }
     }
+
+    function logout()
+    {
+        echo "hello";
+    }
 }

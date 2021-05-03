@@ -26,6 +26,33 @@
         height: 750px;
         padding-top: 100px;
     }
+    img.slider-img{
+        height: 400px !important;
+    }
+    .custom-product{
+        height: 765px;
+    }
+    .slider-text{
+        background-color: #1d15155c !important;
+    }
+    .trending-img{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 20%
+    }
+    .trending-wrapper{
+        margin: 30px;
+        padding-top: 30px;
+    }
+    .detail-img{
+        height: 200px;
+        /* float: left; */
+    }
+    .search-box{
+        width: 500px !important;
+    }
 </style>
 {{-- <script>
     $(document).ready(function(){
